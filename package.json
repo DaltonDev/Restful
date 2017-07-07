@@ -1,0 +1,24 @@
+{
+  "name": "bookapi",
+  "version": "1.0.0",
+  "description": "Restful web service with nodejs and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaltonDev/Restful.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaltonDev/Restful/issues"
+  },
+  "homepage": "https://github.com/DaltonDev/Restful#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1"
+  }
+}

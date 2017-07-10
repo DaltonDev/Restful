@@ -1,6 +1,6 @@
 //Using gulp to auto restart server when making changes
 //Initialize Nodemon
-var gulp = require('gulp');
+var gulp = require('gulp'),
   nodemon = require('gulp-nodemon');
 //Tell gulp what to listen after
 gulp.task('default', function(){

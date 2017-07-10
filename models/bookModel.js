@@ -11,7 +11,7 @@ var bookModel = new Schema({
   genre: {
     type: String
   },
-  titel: {
+  read: {
     type: Boolean, default:false
   }
 });
